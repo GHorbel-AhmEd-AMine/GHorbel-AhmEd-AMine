@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GHorbel-AhmEd-AMine
-- 👀 I’m interested in Artifical intelligence
-- 🌱 I’m currently learning Big Data 
+- 👋 Hi, I’m @GHorbel-AhmEd-AMine , i am an Data Science intern at INSA Rennes working on Clustering PolSAR images (Radar Images) with K-means algorithm and other unsupervised approaches
+- 👀 I’m interested in Artifical intelligence, Machine learning, Deep Learning and Data Science. 
+- 🌱 I’m currently learning Machine learning operations ( MLOps) 
 - 💞️ I’m looking to collaborate on large scale projects
 - 📫 How to reach me linkedin : https://www.linkedin.com/in/ahmed-amine-ghorbel-9538261a4/
 
