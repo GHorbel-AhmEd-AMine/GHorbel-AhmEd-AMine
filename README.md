@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GHorbel-AhmEd-AMine , i am an Data Science intern at INSA Rennes working on Clustering PolSAR images (Radar Images) with K-means algorithm and other unsupervised approaches
+- 👋 Hi, I’m @GHorbel-AhmEd-AMine , i am an Data Science student in The university of Paul Sabatier Toulouse studying Artificial intelligence
 - 👀 I’m interested in Artifical intelligence, Machine learning, Deep Learning and Data Science. 
 - 🌱 I’m currently learning Machine learning operations ( MLOps) 
 - 💞️ I’m looking to collaborate on large scale projects
