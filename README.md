@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghorbel Ahmed Amine</h1>
 
-<h3 align="center">I am an Data Science & Artifical Intelligence student at The university of Paul Sabatier Toulouse studying Artificial intelligence</h3>
+<h3 align="center">I am an Data Science & Artifical Intelligence student at The university of Paul Sabatier Toulouse</h3>
 
 - 👀 I’m interested in Artifical intelligence, Machine learning, Deep Learning and Data Science. 
 - 🌱 I’m currently learning Machine learning operations (MLOps) and data engineering
