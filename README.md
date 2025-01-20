@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on large scale projects
 - 👨‍💻 My LinkedIn profile [https://www.linkedin.com/in/ahmed-amine-ghorbel-9538261a4/](https://www.linkedin.com/in/ahmed-amine-ghorbel-9538261a4/)
 
-- 📫 My email address **ahmed-amine.ghorbel@univ-tlse3.fr**
+- 📫 My email address **ahmedamine.ghorbel@gmail.com**
 
 <p align="left">
 </p>
