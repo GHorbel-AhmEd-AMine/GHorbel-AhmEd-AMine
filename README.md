@@ -2,7 +2,7 @@
 
 <h3 align="center">I am an Data Science & Artifical Intelligence student at The university of Paul Sabatier Toulouse</h3>
 
-- 👀 I’m interested in Artifical intelligence, Machine learning, Deep Learning and Data Science. 
+- 👀 I’m interested in Artifical intelligence, Data Science and Generative AI. 
 - 🌱 I’m currently learning Machine learning operations (MLOps) and data engineering
 - 💞️ I’m looking to collaborate on large scale projects
 - 👨‍💻 My LinkedIn profile [https://www.linkedin.com/in/ahmed-amine-ghorbel-9538261a4/](https://www.linkedin.com/in/ahmed-amine-ghorbel-9538261a4/)
