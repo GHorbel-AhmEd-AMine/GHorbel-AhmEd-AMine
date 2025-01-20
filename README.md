@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GHORBEL Ahmed Amine 👋 </h1> 
+<h1 align="center">Hi 👋 I'm GHORBEL Ahmed Amine 👋 </h1> 
 
 <h3 align="center">I am an Data Science & Artifical Intelligence student at The university of Paul Sabatier Toulouse</h3>
 
